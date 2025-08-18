@@ -198,5 +198,3 @@ Marg AI is an innovative AI-powered assessment platform designed to make educati
 - For any issues, refer to the respective documentation for Flutter and React.
 
 ---
-
-Built with ❤️ for Smart India Hackathon 2024
