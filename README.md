@@ -1,6 +1,6 @@
-# Marg AI - Inclusive Assessment Platform
+# Assissfy - Inclusive Assessment Platform
 
-Marg AI is an innovative AI-powered assessment platform designed to make education more accessible and inclusive. Built as a solution for SIH 1777, it addresses the need for comprehensive assessment tools in India's skill ecosystem.
+Assissfy is an innovative AI-powered assessment platform designed to make education more accessible and inclusive. Built as a solution for SIH 1777, it addresses the need for comprehensive assessment tools in India's skill ecosystem.
 
 ## 🎯 Core Features
 
