@@ -23,4 +23,4 @@ let language = 'en';
     }
   };
   
-  signup('margai', 'testmarg@gmail.com', 'password123');
+  signup('assissfy', 'testmarg@gmail.com', 'password123');

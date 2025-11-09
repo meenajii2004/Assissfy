@@ -43,7 +43,7 @@ function LandingPage() {
         <nav className="flex flex-row px-12 py-8 items-center justify-between">
           <div className="flex flex-row items-center">
             <img src="/img/logo.svg" alt="logo" height={60} width={60} />
-            <h1 className="text-5xl font-semibold text-white ml-2">MargAI</h1>
+            <h1 className="text-5xl font-semibold text-white ml-2">Assissfy</h1>
           </div>
 
           <div className="flex flex-row items-center justify-between gap-16">
